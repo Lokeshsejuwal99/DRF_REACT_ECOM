@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "react-bootstrap": "^2.10.4"
-  },
-  "devDependencies": {
-    "source-map-support": "^0.5.21"
-  }
-}
