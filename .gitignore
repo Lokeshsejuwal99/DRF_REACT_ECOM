@@ -3,3 +3,6 @@ venv/
 
 # dependencies
 node_modules/
+build/
+src/bootstrap.min.css/
+src/components/
